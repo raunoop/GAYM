@@ -3,7 +3,11 @@ DISPLAY_HEIGHT = 720
 
 BLACK = (0,0,0)
 WHITE = (255,255,255)
-RED   = (255,0,0)
+red   = (200,0,0)
+bright_red = (255,0,0)
+green = (0,200,0)
+bright_green = (0,255,0)
+
 
 ## IMAGES
 seisab = "seisab.png"
