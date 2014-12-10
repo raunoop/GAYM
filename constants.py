@@ -35,10 +35,8 @@ taust1 = "background1.png"
 taust2 = "background2.png"
 taust3 = "background3.png"
 
-
 ##tiles and stuff
 gray_brick = "texture_grass_uus.jpg"
-
 
 #platvormi võimalikud pealmised ruudud
 OBSTACLE_1 = [(0,0)]
@@ -74,3 +72,5 @@ OBSTACLE_6 = [(0,0), (64,0), (128, 0), (192, 0), (256, 0)]
 """
 XXXX
 """
+
+OBSTACLES = [OBSTACLE_1, OBSTACLE_2, OBSTACLE_3, OBSTACLE_4, OBSTACLE_5, OBSTACLE_6]
